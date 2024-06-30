@@ -1,0 +1,1 @@
+clang StrationCC.c -o Stration.exe
