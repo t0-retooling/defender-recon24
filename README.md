@@ -12,5 +12,6 @@ https://www.msys2.org/
 
 https://www.virustotal.com/gui/file/ffde53857435dbea42dbfb9494518c656ba9da4193b8e3ece47e553535280cf1
 
+* The `test-DarbyA-text.zip` contains a file that tringgers the detection on defender but it is not a malware. The password is _infected_ anyway
 
 
