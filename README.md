@@ -1,4 +1,4 @@
-# Workshop of An unexpected journey into Microsoft Defender's signature World (Recon 2024)
+# Workshop of An unexpected journey into Microsoft Defender's signature World 
 
 ## Workshop Abstract
 
@@ -12,7 +12,7 @@ Furthermore, we'll demonstrate how to automatically generate fake PE files that 
 
 Don't miss out on this opportunity to gain valuable insights into Windows Defender's signature detection mechanisms and to increase the world's entropy!
 
-This is the link to the schedule: [Recon 2024 Schedule](https://cfp.recon.cx/recon2024/talk/TFC3XM/)
+This is the link to the schedule at Recon: 
 
 ## Description of the material
 
@@ -30,4 +30,7 @@ https://www.virustotal.com/gui/file/ffde53857435dbea42dbfb9494518c656ba9da4193b8
 
 * The `test-DarbyA-text.zip` contains a file that tringgers the detection on defender but it is not a malware. The password is _infected_ anyway
 
+# Conferences
 
+* [NoHat 2024](https://www.nohat.it/workshops)
+* [Recon 2024](https://cfp.recon.cx/recon2024/talk/TFC3XM/)
